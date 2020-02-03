@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MessageContextStoreContainer" CdmEntityContainer="Office_ChatEntities">
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="MessageContext.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="userPassword" ColumnName="userPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="message3">
+      <EntityTypeMapping TypeName="MessageContext.message3">
+        <MappingFragment StoreEntitySet="message3">
+          <ScalarProperty Name="postID" ColumnName="postID" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="targetUser" ColumnName="targetUser" />
+          <ScalarProperty Name="send_recieved" ColumnName="send/recieved" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="message" ColumnName="message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

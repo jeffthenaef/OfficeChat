@@ -1,0 +1,16 @@
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\OfficeChat.exe.config
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\OfficeChat.exe
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\OfficeChat.pdb
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.csprojAssemblyReference.cache
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.Form1.resources
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.Properties.Resources.resources
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.csproj.GenerateResource.cache
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.exe
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.pdb
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\EntityFramework.dll
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\EntityFramework.xml
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.csproj.CopyComplete
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.Form2.resources
+C:\Users\neff\source\repos\OfficeChat\OfficeChat\obj\Debug\OfficeChat.Form3.resources
